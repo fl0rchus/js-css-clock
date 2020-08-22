@@ -17,4 +17,4 @@ You can also practice with JavaScript 30 [right here](https://javascript30.com)
 
 ## Demo
 
-[Click here to see it]()
+[Click here to see it](https://fl0rchus.github.io/js-css-clock/)
